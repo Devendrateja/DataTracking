@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "230688977568",
+    "project_id": "ads-test-156ac",
+    "storage_bucket": "ads-test-156ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230688977568:android:8195a3baf59fe9d18bcfc5",
+        "android_client_info": {
+          "package_name": "com.datatracking.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "230688977568-hjk956j05eqipsuc5bi36abp2mcrln7q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU3aOTFnC9W0weyuL4ak1O8RtFoLPqlfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "230688977568-hjk956j05eqipsuc5bi36abp2mcrln7q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
